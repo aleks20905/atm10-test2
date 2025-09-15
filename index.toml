@@ -1,0 +1,6 @@
+hash-format = "sha256"
+
+[[files]]
+file = "all-the-mods-10.pw.toml"
+hash = "20860d3387838e1617465e533618306f69bac7fe3090cc554f4baf134a214133"
+metafile = true

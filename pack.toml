@@ -1,0 +1,13 @@
+name = "atm10-test"
+author = "me"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "78d274afca06440b4f3ff195b65cab97692552ab19c0e279f12f21ec2b008796"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.193"
